@@ -3,7 +3,7 @@ body {
     color: whitesmoke;
 }
 
-.intro {
+.intro, .recipe-one {
     font-size: larger
 }
 
@@ -15,4 +15,8 @@ h1 {
 h2 {
     text-align: center;
     margin: 50px;
+}
+
+h3 {
+    font: large;
 }
