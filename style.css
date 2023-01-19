@@ -1,0 +1,18 @@
+body {
+    background-color: #333333;
+    color: whitesmoke;
+}
+
+.intro {
+    font-size: larger
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h2 {
+    text-align: center;
+    margin: 50px;
+}
